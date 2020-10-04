@@ -2,10 +2,6 @@
 #include <string.h>
 using namespace std;
 
-
-
-
-
 int HexToDec(char hex[])
 {
   int len = strlen(hex);
