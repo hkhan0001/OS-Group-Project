@@ -7,5 +7,5 @@ Operating Systems Group Project Fall 2020
 * Hamza Khan (hkhan0001)
 * Dakota Lance (dlance8)
 * Amy Mullins (thatgirlprogrammer)
-* Bryan Nix (daqger)
+
 
