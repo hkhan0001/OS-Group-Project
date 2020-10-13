@@ -54,6 +54,11 @@ void Memory :: isFull()
             storage[i] = 0;
             cout << "CLEARED";
         }
+        else
+        {
+            cout << "NOT FULL";
+            break;
+        }
     }
 }
 
